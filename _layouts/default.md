@@ -107,7 +107,7 @@
       <div class="row">
         <div class="col-sm-10 col-md-6">
           <h1 class="block-title m-b-sm">Eliminating Turbulance in Corporate Travel Payments</h1>
-          <p class="lead m-b-md text-muted">A corprate travel payment soulution powered by cryptocurrency.</p>
+          <p class="lead m-b-md ">A corprate travel payment soulution powered by cryptocurrency.</p>
           <button class="btn btn-primary btn-lg">Pre ICO Submission </button>
         </div>
       </div>
@@ -144,7 +144,7 @@
 
       <div class="col-sm-6 col-sm-pull-5">
         <h3 class="text-muted">Elevating the entire experience</h3>
-        <p class="lead m-b-md text-muted">enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain. 
+        <p class="lead m-b-md text-muted">enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain.
 </p>
       </div>
     </div>
