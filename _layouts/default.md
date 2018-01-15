@@ -150,74 +150,6 @@
     </div>
   </div>
 </div>
-
-<div class="block block-secondary app-high-praise p-b-0">
-  <div class="container">
-    <div class="row app-align-center">
-      <div class="col-sm-5 col-sm-push-7">
-        <h6 class="text-muted text-uppercase">High Praise</h6>
-        <h3 class="m-t-0 m-b-md">“Go Analytics is amazing. Decisions that used to take weeks, now only takes minutes and is available to everyone on my team.”</h3>
-        <p class="m-b-md text-muted">Cindy Smith, founder of Cool Startup</p>
-      </div>
-      <div class="col-sm-6 col-sm-pull-5">
-        <img src="assets/img/startup-3.jpg">
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="block app-ribbon p-y-lg">
-  <div class="container text-center">
-    <img src="assets/img/startup-4.svg">
-    <img src="assets/img/startup-5.svg">
-    <img src="assets/img/startup-6.svg">
-    <img src="assets/img/startup-7.svg">
-    <img src="assets/img/startup-8.svg">
-  </div>
-</div>
-
-<div class="block block-secondary app-block-marketing-grid">
-  <div class="container text-center">
-
-    <div class="row m-b-lg">
-      <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
-        <h6 class="text-muted text-uppercase">Inside the machine</h6>
-        <h3  class="m-t-0 m-b">It’s not hard to see how we make your life easier every day.</h3>
-      </div>
-    </div>
-
-    <div class="row app-marketing-grid">
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-9.svg">
-        <p><strong>24/7 support.</strong> We’re always here for you no matter what time of day.</p>
-      </div>
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-10.svg">
-        <p><strong>E-commerce.</strong> We automatically handle all sales analytics.</p>
-      </div>
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-11.svg">
-        <p><strong>Turnaround.</strong> Our data analysis is distributed, so it processes in seconds.</p>
-      </div>
-    </div>
-
-    <div class="row app-marketing-grid">
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-12.svg">
-        <p><strong>Rich calculations.</strong> Limitless ways to splice and dice your data.</p>
-      </div>
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-13.svg">
-        <p><strong>Mobile apps.</strong> iOS and Android apps available for monitoring.</p>
-      </div>
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-14.svg">
-        <p><strong>Secure connections.</strong> Every single request is routed through HTTPS.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="block app-price-plans">
   <div class="container text-center">
 
@@ -277,7 +209,76 @@
 
   </div>
 </div>
+<div class="block block-secondary app-high-praise p-b-0">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-5 col-sm-push-7">
+        <h6 class="text-muted text-uppercase">High Praise</h6>
+        <h3 class="m-t-0 m-b-md">“Go Analytics is amazing. Decisions that used to take weeks, now only takes minutes and is available to everyone on my team.”</h3>
+        <p class="m-b-md text-muted">Cindy Smith, founder of Cool Startup</p>
+      </div>
+      <div class="col-sm-6 col-sm-pull-5">
+        <img src="assets/img/startup-3.jpg">
+      </div>
+    </div>
+  </div>
+</div>
 
+<div class="block app-ribbon p-y-lg">
+  <div class="container text-center">
+    <img src="assets/img/startup-4.svg">
+    <img src="assets/img/startup-5.svg">
+    <img src="assets/img/startup-6.svg">
+    <img src="assets/img/startup-7.svg">
+    <img src="assets/img/startup-8.svg">
+  </div>
+</div>
+
+<div class="block block-secondary app-block-marketing-grid">
+  <div class="container text-center">
+
+    <div class="row m-b-lg">
+      <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <h6 class="text-muted text-uppercase">Team</h6>
+        <h3  class="m-t-0 m-b">It’s not hard to see how we make your life easier every day.</h3>
+      </div>
+    </div>
+
+    <div class="row app-marketing-grid">
+      <div class="col-sm-3 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-9.svg">
+        <p><strong>24/7 support.</strong> We’re always here for you no matter what time of day.</p>
+      </div>
+      <div class="col-sm-3 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-10.svg">
+        <p><strong>E-commerce.</strong> We automatically handle all sales analytics.</p>
+      </div>
+      <div class="col-sm-3 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-11.svg">
+        <p><strong>Turnaround.</strong> Our data analysis is distributed, so it processes in seconds.</p>
+      </div>
+      <div class="col-sm-3 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-11.svg">
+        <p><strong>Turnaround.</strong> Our data analysis is distributed, so it processes in seconds.</p>
+      </div>
+    </div>
+
+    <div class="row app-marketing-grid">
+      <div class="col-sm-4 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-12.svg">
+        <p><strong>Rich calculations.</strong> Limitless ways to splice and dice your data.</p>
+      </div>
+      <div class="col-sm-4 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-13.svg">
+        <p><strong>Mobile apps.</strong> iOS and Android apps available for monitoring.</p>
+      </div>
+      <div class="col-sm-4 p-x-md m-b-lg">
+        <img class="m-b" src="assets/img/startup-14.svg">
+        <p><strong>Secure connections.</strong> Every single request is routed through HTTPS.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="block block-inverse app-footer">
  <div class="container">
     <div class="row">

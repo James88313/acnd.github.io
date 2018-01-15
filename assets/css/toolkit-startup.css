@@ -8114,7 +8114,6 @@ fieldset[disabled] .btn-danger-outline.active {
 }
 .block-inverse {
   color: #ffffff;
-  background-color: #000000;
 }
 .block-inverse.block-bordered:before,
 .block-inverse hr {
