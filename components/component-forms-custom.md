@@ -2,7 +2,7 @@
 
 Custom select menus can be easily created for browsers that support the styles.
 
-{% example html %}
+
 <select class="custom-select">
   <option>Default</option>
   <option>First option</option>
@@ -18,11 +18,11 @@ Custom select menus can be easily created for browsers that support the styles.
   <option>Alternative</option>
   <option>Last one</option>
 </select>
-{% endexample %}
+
 
 Custom selects support the `disabled` attribute as well.
 
-{% example html %}
+
 <select class="custom-select" disabled>
   <option>Default</option>
   <option>First option</option>
@@ -38,11 +38,11 @@ Custom selects support the `disabled` attribute as well.
   <option>Alternative</option>
   <option>Last one</option>
 </select>
-{% endexample %}
+
 
 Custom checkboxes and radios are built on the default Bootstrap checkboxes and radios. Add a couple extra classes and the indicator and you should be all set.
 
-{% example html %}
+
 <div class="checkbox custom-control custom-checkbox">
   <label>
     <input type="checkbox">
@@ -64,11 +64,11 @@ Custom checkboxes and radios are built on the default Bootstrap checkboxes and r
     This custom checkbox is disabled
   </label>
 </div>
-{% endexample %}
+
 
 They can be done inline, too.
 
-{% example html %}
+
 <div class="checkbox-inline custom-control custom-checkbox">
   <label>
     <input type="checkbox">
@@ -83,11 +83,11 @@ They can be done inline, too.
     This custom checkbox is checked
   </label>
 </div>
-{% endexample %}
+
 
 Same goes with radio inputs.
 
-{% example html %}
+
 <div class="radio custom-control custom-radio">
   <label>
     <input type="radio" id="radio1" name="radio">
@@ -102,11 +102,11 @@ Same goes with radio inputs.
     Or toggle this other custom radio
   </label>
 </div>
-{% endexample %}
+
 
 And they can also be inline.
 
-{% example html %}
+
 <div class="radio-inline custom-control custom-radio">
   <label>
     <input type="radio" id="radio1" name="radio">
@@ -121,4 +121,4 @@ And they can also be inline.
     Or toggle this other custom radio
   </label>
 </div>
-{% endexample %}
+

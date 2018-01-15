@@ -22,4 +22,4 @@ The dashhead is a custom component built to house all the textual headings, form
     </div>
   </div>
 </div>
-{% endexample %}
+

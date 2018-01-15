@@ -2,7 +2,7 @@
 
 Simple panel modifier for link lists.
 
-{% example html %}
+
 <div class="panel panel-default panel-link-list">
   <div class="panel-body">
     © 2015 Bootstrap
@@ -23,4 +23,4 @@ Simple panel modifier for link lists.
     <a href="#">Advertise</a>
   </div>
 </div>
-{% endexample %}
+

@@ -29,4 +29,4 @@ The light carousel is a modified version of Bootstrap's default carousel, using 
     <span class="sr-only">Next</span>
   </a>
 </div>
-{% endexample %}
+

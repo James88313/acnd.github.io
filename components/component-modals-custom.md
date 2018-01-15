@@ -34,7 +34,7 @@ Support for multiple, stackable modal bodies and scrolling bodies using the new 
     </div>
   </div>
 </div>
-{% endexample %}
+
 
 Also, drop the regular footer for a new two-up set of actions using the `.modal-actions` component.
 
@@ -58,4 +58,4 @@ Also, drop the regular footer for a new two-up set of actions using the `.modal-
     </div>
   </div>
 </div>
-{% endexample %}
+
