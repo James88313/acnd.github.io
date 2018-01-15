@@ -8037,6 +8037,9 @@ fieldset[disabled] .btn-danger-outline.active {
     padding-left: 40px;
   }
 }
+.second-feature-block {
+  margin:200px auto;
+}
 .block {
   position: relative;
   width: 100%;

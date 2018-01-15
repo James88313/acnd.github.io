@@ -34,8 +34,9 @@
 
 /* code block */
 .app-code-block {
-  background-color: #262F36;
+  background-color: #F7F7F7;
   overflow: hidden;
+  color:#2d3238;
 }
 .app-code {
   color: #6EA4CF;
@@ -128,7 +129,7 @@
 
 /* general inverse overrides */
 .block-inverse .text-muted {
-  color: rgba(255, 255, 255, .7);
+  color:#2d3238;
 }
 .block-inverse .block-bg-img {
   background-color: transparent;
