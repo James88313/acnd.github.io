@@ -101,7 +101,7 @@
           <a href="/index.html">StartUp</a>
         </li>
         <li >
-          <a href="minimal/index.html">Minimal</a>
+          <a href="/">Minimal</a>
         </li>
         <li >
           <a href="bold/index.html">Bold</a>
