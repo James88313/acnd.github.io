@@ -249,10 +249,8 @@
     <div class="row m-b-lg">
       <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
         <h6 class="text-muted text-uppercase">Team</h6>
-        <h3  class="m-t-0 m-b">It’s not hard to see how we make your life easier every day.</h3>
       </div>
     </div>
-
     <div class="row app-marketing-grid">
       <div class="col-sm-3 p-x-md m-b-lg">
         <img class="m-b" src="assets/img/startup-9.svg">
@@ -273,18 +271,6 @@
     </div>
 
     <div class="row app-marketing-grid">
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-12.svg">
-        <p><strong>Rich calculations.</strong> Limitless ways to splice and dice your data.</p>
-      </div>
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-13.svg">
-        <p><strong>Mobile apps.</strong> iOS and Android apps available for monitoring.</p>
-      </div>
-      <div class="col-sm-4 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-14.svg">
-        <p><strong>Secure connections.</strong> Every single request is routed through HTTPS.</p>
-      </div>
     </div>
   </div>
 </div>
