@@ -209,6 +209,28 @@
 
   </div>
 </div>
+<!--recently -->
+<div class="block app-price-plans">
+  <div class="container text-center">
+
+    <div class="row m-b-lg">
+      <div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <h6 class="text-muted text-uppercase">Recent</h6>
+        <h3  class="m-t-0"> Oh the places we will go.</h3>
+        <img src="assets/img/teplis.jpg"/>
+        <p class="teplis-partnership" style="padding-top:30px;">We are excited to announce our new partnership with Teplis travel. A industry leader in the travel industry for over 45 years. Together we can acnd even further allowing for the acnd network to expand even faster.</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-12 p-x m-b-lg">
+        <div class="p-x">
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <!--
 <div class="block block-secondary app-high-praise p-b-0">
   <div class="container">
@@ -251,22 +273,23 @@
         <h6 class="text-muted text-uppercase">Team</h6>
       </div>
     </div>
+
     <div class="row app-marketing-grid">
       <div class="col-sm-3 p-x-md m-b-lg">
         <img class="m-b" src="assets/img/startup-9.svg">
-        <p><strong>24/7 support.</strong> We’re always here for you no matter what time of day.</p>
+        <p><strong>Gary Teplis</strong></p>
       </div>
       <div class="col-sm-3 p-x-md m-b-lg">
         <img class="m-b" src="assets/img/startup-10.svg">
-        <p><strong>E-commerce.</strong> We automatically handle all sales analytics.</p>
+        <p><strong>Chase DuBois</strong> </p>
       </div>
       <div class="col-sm-3 p-x-md m-b-lg">
         <img class="m-b" src="assets/img/startup-11.svg">
-        <p><strong>Turnaround.</strong> Our data analysis is distributed, so it processes in seconds.</p>
+        <p><strong>Blake Jackovitch</strong></p>
       </div>
       <div class="col-sm-3 p-x-md m-b-lg">
         <img class="m-b" src="assets/img/startup-11.svg">
-        <p><strong>Turnaround.</strong> Our data analysis is distributed, so it processes in seconds.</p>
+        <p><strong>Tharwart malik</strong> </p>
       </div>
     </div>
 

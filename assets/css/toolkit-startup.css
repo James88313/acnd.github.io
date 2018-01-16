@@ -8115,6 +8115,9 @@ fieldset[disabled] .btn-danger-outline.active {
 .block-inverse {
   color: #ffffff;
 }
+.teplis-partnership {
+  padding-top:30px;
+}
 .block-inverse.block-bordered:before,
 .block-inverse hr {
   border-color: rgba(255, 255, 255, 0.2);
