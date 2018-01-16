@@ -106,15 +106,16 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-10 col-md-6">
-          <h1 class="block-title m-b-sm">Eliminating Turbulance in Corporate Travel Payments</h1>
-          <p class="lead m-b-md ">A corprate travel payment soulution powered by cryptocurrency.</p>
+          <h1 class="block-title m-b-sm">Eliminating Turbulance in corporate Travel Payments</h1>
+          <p class="lead m-b-md ">A corprate travel payment solution powered by cryptocurrency.</p>
           <button class="btn btn-primary btn-lg">Pre ICO Submission </button>
         </div>
       </div>
     </div>
   </div>
 </div>
-
+<!-- -->
+<!-- -->
 <div class="block second-feature-block block-secondary app-iphone-block post-landing">
   <div class="container">
     <div class="row app-align-center">
@@ -134,6 +135,22 @@
 
   </div>
 </div>
+<div class="block second-feature-block block-secondary app-iphone-block post-landing">
+  <div class="container">
+    <div class="row app-align-center">
+
+      <div class="col-sm-12 ">
+        <img class="app-iphone" src="assets/img/tc.svg" style="width: 20%;">
+        <h3 class="m-t-0" style="margin:0 auto;">Rerouting the Industry to a desired destination.</h3>
+        <p class="lead m-b-md">Using blockchain technology, we are building a payment solution which will revolutionize the travel B2B payment landscape.</p>
+        <div class="row hidden-sm">
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 <div class="block block-inverse block-secondary app-code-block">
   <div class="container">
@@ -144,7 +161,7 @@
 
       <div class="col-sm-6 col-sm-pull-5">
         <h3 class="text-muted">Elevating the entire experience</h3>
-        <p class="lead m-b-md text-muted">enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain.
+        <p class="lead m-b-md text-muted">Enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain.
 </p>
       </div>
     </div>
