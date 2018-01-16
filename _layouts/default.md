@@ -153,24 +153,16 @@
 <div class="block app-price-plans">
   <div class="container text-center">
 
-    <div class="row m-b-lg">
-      <div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
-        <h6 class="text-muted text-uppercase">Business Talk</h6>
-        <h3  class="m-t-0">No plans. We just bump your plan whenever you need it.</h3>
-      </div>
-    </div>
-
     <div class="row">
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
-          <h6 class="text-muted text-uppercase m-b">Personal</h6>
-          <p>Plenty of processing power for any personal projects, big or small.</p>
+          <h6 class="text-muted text-uppercase m-b">Corporate Travel</h6>
         </div>
 
         <ul class="list-unstyled list-bordered text-left m-y-md">
-          <li class="p-y"><strong>10k</strong> monthly requests</li>
-          <li class="p-y"><strong>9am-5pm</strong> technical supprt</li>
-          <li class="p-y"><strong>Public</strong> API access</li>
+          <li class="p-y">Automated reconciliations</li>
+          <li class="p-y">Integrated travel policies</li>
+          <li class="p-y">Savings on transactions and loyalty benefits</li>
         </ul>
 
 
@@ -178,14 +170,13 @@
 
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
-          <h6 class="text-muted text-uppercase m-b">Business</h6>
-          <p>The perfect sized plan for small businesses to get started.</p>
+          <h6 class="text-muted text-uppercase m-b">Agencies</h6>
         </div>
 
         <ul class="list-unstyled list-bordered text-left m-y-md">
-          <li class="p-y"><strong>100k</strong> monthly requests</li>
-          <li class="p-y"><strong>24/7</strong> technical supprt</li>
-          <li class="p-y"><strong>Public</strong> API access</li>
+          <li class="p-y">Automated commission payments via smart contracts</li>
+          <li class="p-y">Reduced data maintenance overhead</li>
+          <li class="p-y"> Cost efficient, fast cross-border payments</li>
         </ul>
 
 
@@ -193,14 +184,13 @@
 
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
-          <h6 class="text-muted text-uppercase m-b">Corporate</h6>
-          <p>An unlimited plan that will scale infinitely to any size project.</p>
+          <h6 class="text-muted text-uppercase m-b">Suppliers</h6>
         </div>
 
         <ul class="list-unstyled list-bordered text-left m-y-md">
-          <li class="p-y"><strong>Unlimited</strong> monthly requests</li>
-          <li class="p-y"><strong>24/7</strong> technical supprt</li>
-          <li class="p-y"><strong>Public & Private</strong> API access</li>
+          <li class="p-y">Automate manual processes (i.e. eliminate fax verification for hotels)</li>
+          <li class="p-y">Faster payment processing which reduces cash cycle</li>
+          <li class="p-y">Reduces fraud / error for significant savings</li>
         </ul>
 
 
@@ -267,7 +257,7 @@
 <!--End mc_embed_signup-->
 <div class="block block-secondary app-block-marketing-grid">
   <div class="container text-center">
-
+<!--
     <div class="row m-b-lg">
       <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
         <h6 class="text-muted text-uppercase">Team</h6>
@@ -292,7 +282,7 @@
         <p><strong>Tharwart malik</strong> </p>
       </div>
     </div>
-
+-->
     <div class="row app-marketing-grid">
     </div>
   </div>
