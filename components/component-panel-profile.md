@@ -2,7 +2,7 @@
 
 Feature a user's profile with the `.panel-profile` variant.
 
-{% example html %}
+
 <div class="m-t">
   <div class="row">
     <div class="col-md-6">
@@ -33,4 +33,4 @@ Feature a user's profile with the `.panel-profile` variant.
     </div>
   </div>
 </div>
-{% endexample %}
+

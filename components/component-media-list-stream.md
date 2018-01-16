@@ -1,6 +1,6 @@
 ## Media list steam
 
-{% example html %}
+
 <ul class="media-list media-list-stream c-w-md">
   <li class="media p-a">
     <a class="media-left" href="#">
@@ -38,4 +38,4 @@
     </div>
   </li>
 </ul>
-{% endexample %}
+

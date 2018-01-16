@@ -8037,6 +8037,9 @@ fieldset[disabled] .btn-danger-outline.active {
     padding-left: 40px;
   }
 }
+.second-feature-block {
+  margin:200px auto;
+}
 .block {
   position: relative;
   width: 100%;
@@ -8111,7 +8114,6 @@ fieldset[disabled] .btn-danger-outline.active {
 }
 .block-inverse {
   color: #ffffff;
-  background-color: #000000;
 }
 .block-inverse.block-bordered:before,
 .block-inverse hr {
