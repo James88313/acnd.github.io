@@ -209,6 +209,7 @@
 
   </div>
 </div>
+<!--
 <div class="block block-secondary app-high-praise p-b-0">
   <div class="container">
     <div class="row app-align-center">
@@ -217,30 +218,19 @@
         <h3 class="m-t-0 m-b-md">“Go Analytics is amazing. Decisions that used to take weeks, now only takes minutes and is available to everyone on my team.”</h3>
         <p class="m-b-md text-muted">Cindy Smith, founder of Cool Startup</p>
       </div>
-      <div class="col-sm-6 col-sm-pull-5">
-        <img src="assets/img/startup-3.jpg">
-      </div>
+
     </div>
   </div>
 </div>
-
-<div class="block app-ribbon p-y-lg">
-  <div class="container text-center">
-    <img src="assets/img/startup-4.svg">
-    <img src="assets/img/startup-5.svg">
-    <img src="assets/img/startup-6.svg">
-    <img src="assets/img/startup-7.svg">
-    <img src="assets/img/startup-8.svg">
-  </div>
-</div>
+-->
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;text-align:center;margin:0 auto; }
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;text-align:center;margin:0 auto;padding-top:30px;}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup">
+<div id="mc_embed_signup" style="padding-top:30px;">
 <form action="https://Acnd.us17.list-manage.com/subscribe/post?u=0e51d46eb5f760bd2cdda8516&amp;id=b03366d368" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<label for="mce-EMAIL">Subscribe to our mailing list</label>
@@ -316,15 +306,6 @@
           <li class="text-muted">Examples</li>
           <li class="text-muted">Tour</li>
           <li class="text-muted">Gallery</li>
-        </ul>
-      </div>
-      <div class="col-sm-2 m-b-md">
-        <ul class="list-unstyled list-spaced">
-          <li class="m-b"><h6 class="text-uppercase">Apis</h6></li>
-          <li class="text-muted">Rich data</li>
-          <li class="text-muted">Simple data</li>
-          <li class="text-muted">Real time</li>
-          <li class="text-muted">Social</li>
         </ul>
       </div>
       <div class="col-sm-2 m-b-md">
