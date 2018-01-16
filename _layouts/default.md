@@ -92,7 +92,7 @@
     <div class="navbar-collapse collapse text-uppercase">
       <ul class="nav navbar-nav navbar-right">
         <li >
-          <a href="bold/index.html">Whitepapaer</a>
+          <a href="">Whitepapaer</a>
         </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -135,20 +135,18 @@
 
   </div>
 </div>
-<div class="block second-feature-block block-secondary app-iphone-block post-landing">
+<div class="block second-feature-block block-secondary app-iphone-block post-landing" style="background-color: #F7F7F7;">
   <div class="container">
     <div class="row app-align-center">
-
+    <div class="col-sm-12">
       <div class="col-sm-12 ">
         <img class="app-iphone" src="assets/img/tc.svg" style="width: 20%;">
         <h3 class="m-t-0" style="margin:0 auto;">Rerouting the Industry to a desired destination.</h3>
         <p class="lead m-b-md">Using blockchain technology, we are building a payment solution which will revolutionize the travel B2B payment landscape.</p>
         <div class="row hidden-sm">
-
         </div>
       </div>
     </div>
-
   </div>
 </div>
 
@@ -309,30 +307,13 @@
     <div class="row">
       <div class="col-sm-5 m-b-md">
         <ul class="list-unstyled list-spaced">
-          <li class="m-b"><h6 class="text-uppercase">About</h6></li>
+          <li class="m-b"><h6 class="text-uppercase" style="color:#13103A;">About</h6></li>
           <li class="text-muted">
-           We’ve been working on Go Analytics for the better part of a decade and are super proud of what we’ve created. If you’d like to learn more, or are interested in a job, contact us anytime at <a href="mailto: themes@getbootstrap.com">themes@getbootstrap.com</a>.
+           Looking to acnd ? We'd love to here from you! <a style="color:#000000;" href="mailto:team@acnd.io">write us</a> here and we'll be sure to get back to you as soon as posisble.
           </li>
         </ul>
       </div>
-      <div class="col-sm-2 col-sm-offset-1 m-b-md">
-        <ul class="list-unstyled list-spaced">
-          <li class="m-b"><h6 class="text-uppercase">Product</h6></li>
-          <li class="text-muted">Features</li>
-          <li class="text-muted">Examples</li>
-          <li class="text-muted">Tour</li>
-          <li class="text-muted">Gallery</li>
-        </ul>
-      </div>
-      <div class="col-sm-2 m-b-md">
-        <ul class="list-unstyled list-spaced">
-          <li class="m-b"><h6 class="text-uppercase">Legal</h6></li>
-          <li class="text-muted">Terms</li>
-          <li class="text-muted">Legal</li>
-          <li class="text-muted">Privacy</li>
-          <li class="text-muted">License</li>
-        </ul>
-      </div>
+
     </div>
   </div>
 </div>
