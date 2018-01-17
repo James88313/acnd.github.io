@@ -124,7 +124,7 @@
   </div>
 </div>
 
-<div class="block block-inverse block-secondary app-code-block">
+<!-- <div class="block block-inverse block-secondary app-code-block"> -->
   <div class="container">
     <div class="row app-align-center">
       <div class="col-sm-5 col-sm-push-7 ">
@@ -272,7 +272,7 @@
     </div>
   </div>
 </div>
-</div>
+<!-- </div> -->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/toolkit.js"></script>
     <script src="assets/js/application.js"></script>
