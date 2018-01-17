@@ -96,7 +96,7 @@
 <div class="block second-feature-block block-secondary app-iphone-block post-landing">
   <div class="container">
     <div class="row app-align-center">
-      <div class="col-sm-5 hidden-xs">
+      <div class="col-sm-5">
         <img class="app-iphone" src="assets/img/blue-cloud.svg" style="width: 50%;">
       </div>
       <div class="col-sm-6 ">
