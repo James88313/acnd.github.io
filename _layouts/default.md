@@ -85,7 +85,7 @@
         <div class="col-sm-10 col-md-6">
           <h1 class="block-title m-b-sm">Eliminating Turbulance in corporate Travel Payments</h1>
           <p class="lead m-b-md ">A corprate travel payment solution powered by cryptocurrency.</p>
-          <button class="btn btn-primary btn-lg">Pre ICO Submission </button>
+          <button class="btn btn-primary btn-lg">Pre ICO Submission Coming Soon</button>
         </div>
       </div>
     </div>
@@ -132,7 +132,7 @@
       </div>
       <div class="col-sm-6 col-sm-pull-5">
         <h3 class="text-muted">Elevating the entire experience</h3>
-        <p class="lead m-b-md text-muted">Enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain.
+        <p class="lead m-b-md text-muted">ACND will enable settlement in minutes rather than days. ACND will Integrate Smart Contracts with every transaction which enable data confirmation and data delivery at the Point of Sale (POS) for everyone in the supply chain. While traditional payment methods require expensive reconciliations and manual processes, we are automating the process and generating substantial savings and efficiencies across the entire vertical supply chain. 
 </p>
       </div>
     </div>
@@ -182,7 +182,7 @@
         <h6 class="text-muted text-uppercase">Recent</h6>
         <h3  class="m-t-0"> Oh the places we will go.</h3>
         <img src="assets/img/teplis.jpg"/>
-        <p class="teplis-partnership" style="padding-top:30px;">We are excited to announce our new partnership with Teplis travel. A industry leader in the travel industry for over 45 years. Together we can acnd even further allowing for the acnd network to expand even faster.</p>
+        <p class="teplis-partnership" style="padding-top:30px;">We are very excited to announce our partnership with Teplis Travel. An industry leader in the corporate travel Industry for over 45 years. Our partnership with Teplis gives ACND detailed intelligence into all of the real-time use case scenarios within the corporate travel payments industry. Our partnership also provides us with a direct channel to $2B of clients, in a $7 Trillion Industry. And ongoing preferred relationships with almost every supplier in the travel industry.</p>
       </div>
     </div>
     <div class="row">
@@ -229,7 +229,7 @@
 <!--End mc_embed_signup-->
 <div class="block block-secondary app-block-marketing-grid">
   <div class="container text-center">
-<!--
+
     <div class="row m-b-lg">
       <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
         <h6 class="text-muted text-uppercase">Team</h6>
@@ -253,7 +253,7 @@
         <p><strong>Tharwart malik</strong> </p>
       </div>
     </div>
--->
+
     <div class="row app-marketing-grid">
     </div>
   </div>
