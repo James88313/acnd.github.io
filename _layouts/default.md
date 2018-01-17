@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,21 +7,10 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
-
-    <title>
-
-        ACND &middot;
-
-    </title>
-
-
+    <title>ACND &middot;</title>
       <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
       <link href="assets/css/toolkit-startup.css" rel="stylesheet">
       <link href="assets/css/application-startup.css" rel="stylesheet">
-
-
-
-
     <style>
       /* note: this is a hack for ios iframe for bootstrap themes shopify page */
       /* this chunk of css is not part of the toolkit :) */
@@ -44,18 +30,10 @@
       }
     </style>
   </head>
-
-
 <body>
-
-
-
-
 <div class="stage-shelf stage-shelf-right hidden" id="sidebar">
   <ul class="nav nav-bordered nav-stacked">
     <li class="nav-header">Examples</li>
-
-
     <li>
       <a href="bold/index.html">Bold</a>
     </li>
@@ -64,7 +42,6 @@
     <li>
       <a href="docs/index.html">Toolkit</a>
     </li>
-
   </ul>
 </div>
 
@@ -119,16 +96,13 @@
 <div class="block second-feature-block block-secondary app-iphone-block post-landing">
   <div class="container">
     <div class="row app-align-center">
-
       <div class="col-sm-5 hidden-xs">
         <img class="app-iphone" src="assets/img/blue-cloud.svg" style="width: 50%;">
       </div>
-
       <div class="col-sm-6 ">
         <h3 class="m-t-0">Clouded Thinking</h3>
         <p class="lead m-b-md">Until now the travel industry has been known to be riddled with old processes. From time intensive wire transfers to fax documentation requirements - inefficiencies are abundant.</p>
         <div class="row hidden-sm">
-
         </div>
       </div>
     </div>
@@ -156,7 +130,6 @@
       <div class="col-sm-5 col-sm-push-7 ">
         <img style="width:60%;" class="col-xs-offset-3" src="assets/img/wing.svg">
       </div>
-
       <div class="col-sm-6 col-sm-pull-5">
         <h3 class="text-muted">Elevating the entire experience</h3>
         <p class="lead m-b-md text-muted">Enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain.
@@ -167,57 +140,43 @@
 </div>
 <div class="block app-price-plans">
   <div class="container text-center">
-
     <div class="row">
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
           <h6 class="text-muted text-uppercase m-b">Corporate Travel</h6>
         </div>
-
         <ul class="list-unstyled list-bordered text-left m-y-md">
           <li class="p-y">Automated reconciliations</li>
           <li class="p-y">Integrated travel policies</li>
           <li class="p-y">Savings on transactions and loyalty benefits</li>
         </ul>
-
-
       </div>
-
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
           <h6 class="text-muted text-uppercase m-b">Agencies</h6>
         </div>
-
         <ul class="list-unstyled list-bordered text-left m-y-md">
           <li class="p-y">Automated commission payments via smart contracts</li>
           <li class="p-y">Reduced data maintenance overhead</li>
           <li class="p-y"> Cost efficient, fast cross-border payments</li>
         </ul>
-
-
       </div>
-
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
           <h6 class="text-muted text-uppercase m-b">Suppliers</h6>
         </div>
-
         <ul class="list-unstyled list-bordered text-left m-y-md">
           <li class="p-y">Automate manual processes (i.e. eliminate fax verification for hotels)</li>
           <li class="p-y">Faster payment processing which reduces cash cycle</li>
           <li class="p-y">Reduces fraud / error for significant savings</li>
         </ul>
-
-
       </div>
     </div>
-
   </div>
 </div>
 <!--recently -->
 <div class="block app-price-plans">
   <div class="container text-center">
-
     <div class="row m-b-lg">
       <div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
         <h6 class="text-muted text-uppercase">Recent</h6>
@@ -226,11 +185,9 @@
         <p class="teplis-partnership" style="padding-top:30px;">We are excited to announce our new partnership with Teplis travel. A industry leader in the travel industry for over 45 years. Together we can acnd even further allowing for the acnd network to expand even faster.</p>
       </div>
     </div>
-
     <div class="row">
       <div class="col-sm-12 p-x m-b-lg">
         <div class="p-x">
-
         </div>
       </div>
     </div>
@@ -278,7 +235,6 @@
         <h6 class="text-muted text-uppercase">Team</h6>
       </div>
     </div>
-
     <div class="row app-marketing-grid">
       <div class="col-sm-3 p-x-md m-b-lg">
         <img class="m-b" src="assets/img/startup-9.svg">
@@ -313,14 +269,10 @@
           </li>
         </ul>
       </div>
-
     </div>
   </div>
 </div>
-
 </div>
-
-
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/toolkit.js"></script>
     <script src="assets/js/application.js"></script>
