@@ -8038,7 +8038,7 @@ fieldset[disabled] .btn-danger-outline.active {
   }
 }
 .second-feature-block {
-  margin:200px auto;
+  margin:200px auto 0;
 }
 .block {
   position: relative;
