@@ -85,7 +85,7 @@
         <div class="col-sm-10 col-md-6">
           <h1 class="block-title m-b-sm">Eliminating Turbulance in corporate Travel Payments</h1>
           <p class="lead m-b-md ">A corprate travel payment solution powered by cryptocurrency.</p>
-          <button class="btn btn-primary btn-lg">Pre ICO Submission </button>
+          <button class="btn btn-primary btn-lg">Pre ICO Submission Coming Soon</button>
         </div>
       </div>
     </div>
@@ -132,7 +132,7 @@
       </div>
       <div class="col-sm-6 col-sm-pull-5">
         <h3 class="text-muted">Elevating the entire experience</h3>
-        <p class="lead m-b-md text-muted">Enabling settlement in minutes rather than days. While traditional payment methods require expensive reconciliations and manual processes, we are automating the processes which generates significant savings for the entire travel supply chain.
+        <p class="lead m-b-md text-muted">ACND will enable settlement in minutes rather than days. ACND will Integrate Smart Contracts with every transaction which enable data confirmation and data delivery at the Point of Sale (POS) for everyone in the supply chain. While traditional payment methods require expensive reconciliations and manual processes, we are automating the process and generating substantial savings and efficiencies across the entire vertical supply chain. 
 </p>
       </div>
     </div>
