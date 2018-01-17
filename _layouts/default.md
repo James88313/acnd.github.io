@@ -182,7 +182,7 @@
         <h6 class="text-muted text-uppercase">Recent</h6>
         <h3  class="m-t-0"> Oh the places we will go.</h3>
         <img src="assets/img/teplis.jpg"/>
-        <p class="teplis-partnership" style="padding-top:30px;">We are excited to announce our new partnership with Teplis travel. A industry leader in the travel industry for over 45 years. Together we can acnd even further allowing for the acnd network to expand even faster.</p>
+        <p class="teplis-partnership" style="padding-top:30px;">We are very excited to announce our partnership with Teplis Travel. An industry leader in the corporate travel Industry for over 45 years. Our partnership with Teplis gives ACND detailed intelligence into all of the real-time use case scenarios within the corporate travel payments industry. Our partnership also provides us with a direct channel to $2B of clients, in a $7 Trillion Industry. And ongoing preferred relationships with almost every supplier in the travel industry.</p>
       </div>
     </div>
     <div class="row">
@@ -229,7 +229,7 @@
 <!--End mc_embed_signup-->
 <div class="block block-secondary app-block-marketing-grid">
   <div class="container text-center">
-<!--
+
     <div class="row m-b-lg">
       <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
         <h6 class="text-muted text-uppercase">Team</h6>
@@ -253,7 +253,7 @@
         <p><strong>Tharwart malik</strong> </p>
       </div>
     </div>
--->
+
     <div class="row app-marketing-grid">
     </div>
   </div>
