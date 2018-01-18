@@ -38,10 +38,7 @@
       <a href="bold/index.html">Bold</a>
     </li>
     <li class="nav-divider"></li>
-    <li class="nav-header">Docs</li>
-    <li>
-      <a href="docs/index.html">Toolkit</a>
-    </li>
+    <li class="nav-header">Whitepaper</li>
   </ul>
 </div>
 
@@ -69,7 +66,9 @@
     <div class="navbar-collapse collapse text-uppercase">
       <ul class="nav navbar-nav navbar-right">
         <li >
-          <a href="{{site.baseurl}}/assets/downloads/acnd-whitepaper.pdf" download = "acnd.pdf">Whitepaper</a>
+        <a download="ACND.pdf" href="acnd.pdf" title="acnd-whitepaper">
+          whitepaper
+        </a>
         </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -86,7 +85,7 @@
           <h1 class="block-title m-b-sm">Eliminating Turbulance in corporate Travel Payments</h1>
           <p class="lead m-b-md ">A corprate travel payment solution powered by cryptocurrency.</p>
           <button class="btn btn-primary btn-lg">Pre ICO Submission</button>
-          <p class = 'text-muted'>Coming Soon</p>
+          <h3 class="text-muted">coming soon.</h3>
         </div>
       </div>
     </div>
@@ -116,8 +115,8 @@
     <div class="col-sm-12">
       <div class="col-sm-12 ">
         <img class="app-iphone" src="assets/img/tc.svg" style="width: 20%;">
-        <h3 class="m-t-0" style="margin:0 auto;">Rerouting the Industry to a desired destination.</h3>
-        <p class="lead m-b-md">Using blockchain technology, we are building a payment solution which will revolutionize the travel B2B payment landscape.</p>
+        <h3 class="m-t-0" style="margin:0 auto;">Rerouting the Industry with Programmable Cash</h3>
+        <p class="lead m-b-md">We are implementing a blockchain solution using digital currency programmed to instantly execute and record transactions that meet predefined company expense policies and criteria. We are developing a tokenized corporate travel ecosystem to revolutionize the travel payment landscape by integrating the entire travel supply chain.</p>
         <div class="row hidden-sm">
         </div>
       </div>
@@ -125,7 +124,11 @@
   </div>
 </div>
 
+<div class="block block-inverse block-secondary app-code-block">
+
+
 <!-- <div class="block block-inverse block-secondary app-code-block"> -->
+
   <div class="container">
     <div class="row app-align-center">
       <div class="col-sm-5 col-sm-push-7 ">
@@ -133,7 +136,7 @@
       </div>
       <div class="col-sm-6 col-sm-pull-5">
         <h3 class="text-muted">Elevating the entire experience</h3>
-        <p class="lead m-b-md text-muted">ACND will enable settlement in minutes rather than days. ACND will Integrate Smart Contracts with every transaction which enable data confirmation and data delivery at the Point of Sale (POS) for everyone in the supply chain. While traditional payment methods require expensive reconciliations and manual processes, we are automating the process and generating substantial savings and efficiencies across the entire vertical supply chain. 
+        <p class="lead m-b-md text-muted">ACND will enable settlement in minutes rather than days. ACND will Integrate Smart Contracts with every transaction which enable data confirmation and data delivery at the Point of Sale (POS) for everyone in the supply chain. While traditional payment methods require expensive reconciliations and manual processes, we are automating the process and generating substantial savings and efficiencies across the entire vertical supply chain.
 </p>
       </div>
     </div>
