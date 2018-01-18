@@ -69,7 +69,7 @@
     <div class="navbar-collapse collapse text-uppercase">
       <ul class="nav navbar-nav navbar-right">
         <li >
-          <a href="">Whitepapaer</a>
+          <a href="{{site.baseurl}}/assets/downloads/acnd-whitepaper.pdf" download = "acnd.pdf">Whitepaper</a>
         </li>
       </ul>
     </div><!--/.nav-collapse -->
