@@ -85,7 +85,8 @@
         <div class="col-sm-10 col-md-6">
           <h1 class="block-title m-b-sm">Eliminating Turbulance in corporate Travel Payments</h1>
           <p class="lead m-b-md ">A corprate travel payment solution powered by cryptocurrency.</p>
-          <button class="btn btn-primary btn-lg">Pre ICO Submission Coming Soon</button>
+          <button class="btn btn-primary btn-lg">Pre ICO Submission</button>
+          <p class = 'text-muted'>Coming Soon</p>
         </div>
       </div>
     </div>
