@@ -8038,14 +8038,13 @@ fieldset[disabled] .btn-danger-outline.active {
   }
 }
 .second-feature-block {
-  margin:200px auto;
+  margin:200px auto 0;
 }
 .block {
   position: relative;
   width: 100%;
   padding: 60px 30px;
   color: inherit;
-  background-color: #ffffff;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -8101,7 +8100,7 @@ fieldset[disabled] .btn-danger-outline.active {
   z-index: 10;
   content: '';
   width: 33%;
-  margin: 0 auto;
+  margin: 0 auto;=
   border-top: 1px solid;
   border-top-color: #ccc;
   border-top-color: rgba(0, 0, 0, 0.1);
@@ -8114,6 +8113,9 @@ fieldset[disabled] .btn-danger-outline.active {
 }
 .block-inverse {
   color: #ffffff;
+}
+.teplis-partnership {
+  padding-top:30px;
 }
 .block-inverse.block-bordered:before,
 .block-inverse hr {
@@ -8525,7 +8527,6 @@ img.zoom-img {
   right: 0;
   bottom: 0;
   z-index: 1079;
-  background: #000000;
   pointer-events: none;
   opacity: 0;
   transition: opacity 300ms;
