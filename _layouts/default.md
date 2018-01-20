@@ -33,11 +33,6 @@
 <body>
 <div class="stage-shelf stage-shelf-right hidden" id="sidebar">
   <ul class="nav nav-bordered nav-stacked">
-    <li class="nav-header">Examples</li>
-    <li>
-      <a href="bold/index.html">Bold</a>
-    </li>
-    <li class="nav-divider"></li>
     <li class="nav-header">Whitepaper</li>
   </ul>
 </div>
