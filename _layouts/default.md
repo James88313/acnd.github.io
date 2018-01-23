@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,10 +10,21 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
-    <title>ACND &middot;</title>
+
+    <title>
+      
+        ACND &middot; 
+      
+    </title>
+
+    
       <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
       <link href="assets/css/toolkit-startup.css" rel="stylesheet">
       <link href="assets/css/application-startup.css" rel="stylesheet">
+    
+
+    
+
     <style>
       /* note: this is a hack for ios iframe for bootstrap themes shopify page */
       /* this chunk of css is not part of the toolkit :) */
@@ -28,19 +42,45 @@
           -webkit-overflow-scrolling: touch;
         }
       }
+      .first-feature {
+        background:#FFFFFF;
+      }
+      .second-feature {
+        background:#F3F3F3;
+      }
+      .third-feature {
+        background:#FFFFFF;
+      }
+      .feature-padding {
+      }
+      .centered {
+        margin: 0 auto;
+        text-align:center;
+      }
     </style>
   </head>
+
+
 <body>
+  
+
+
+
 <div class="stage-shelf stage-shelf-right hidden" id="sidebar">
   <ul class="nav nav-bordered nav-stacked">
-    <li class="nav-header">Whitepaper</li>
+    <li class="active">
+      <a href="index.html">Whitepaper</a>
+    </li>
+    <li class="active">
+      <a href="index.html">Onepager</a>
+    </li>
   </ul>
 </div>
 
 <div class="stage" id="stage">
-<!-- style="background-image: url(assets/img/startup-1.jpg);" -->
+
 <div class="block block-inverse block-fill-height app-header"
-    style="background-image: url(assets/img/landing.svg);" >
+     style="background-image: url(assets/img/background.png)">
 
   <nav class="navbar navbar-transparent navbar-fixed-top navbar-padded app-navbar p-t-md">
   <div class="container">
@@ -53,7 +93,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="">
-        <strong style="color:#FFFFFF; padding: 12px; border-radius: 4px; color: #28669F;">
+        <strong style="padding: 12px; border-radius: 4px; color: #F7F7F7;font-weight:100;">
           ACND
         </strong>
       </a>
@@ -61,8 +101,13 @@
     <div class="navbar-collapse collapse text-uppercase">
       <ul class="nav navbar-nav navbar-right">
         <li >
-        <a download="ACND.pdf" href="acnd.pdf" title="acnd-whitepaper">
+          <a download="ACND.pdf" href="acnd.pdf" title="acnd-whitepaper">
           whitepaper
+        </a>
+        </li>
+        <li >
+          <a download="ACND.pdf" href="acnd.pdf" title="acnd-whitepaper">
+          onepager
         </a>
         </li>
       </ul>
@@ -70,48 +115,63 @@
   </div>
 </nav>
 
-
-<!--  <img class="app-graph" src="assets/img/startup-0.svg"> -->
-
+<!--
+  <img class="app-graph" src="assets/img/startup-0.svg">
+  We are very excited to announce our partnership with Teplis Travel. An industry leader in the corporate travel Industry for over 45 years. Our partnership with Teplis gives ACND detailed intelligence into all of the real-time use case scenarios within the corporate travel payments industry. Our partnership also provides us with a direct channel to $2B of clients, in a $7 Trillion Industry. And ongoing preferred relationships with almost every supplier in the travel industry.
+-->
   <div class="block-xs-middle p-b-lg">
     <div class="container">
       <div class="row">
         <div class="col-sm-10 col-md-6">
-          <h1 class="block-title m-b-sm">Eliminating Turbulance in corporate Travel Payments</h1>
-          <p class="lead m-b-md ">A corprate travel payment solution powered by cryptocurrency.</p>
-          <button class="btn btn-primary btn-lg">Pre ICO Submission</button>
-          <h3 class="text-muted">coming soon.</h3>
+          <h1 class="block-title m-b-sm" style="float:left;">Eliminating Turbulance in corporate Travel Payment experience.</h1>
+          <p class="lead m-b-md text-muted" style="float:left;">The corprate travel payment solution powered by cryptocurrency.</p>
+             <small>ICO Coming Soon</small> 
+
         </div>
       </div>
     </div>
   </div>
 </div>
-<!-- -->
-<!-- -->
-<div class="block second-feature-block block-secondary app-iphone-block post-landing">
+
+<div class="block block-secondary app-iphone-block first-feature" style="padding-top:100px;padding-bottom:100px;">
   <div class="container">
     <div class="row app-align-center">
       <div class="col-sm-5">
-        <img class="app-iphone" src="assets/img/blue-cloud.svg" style="width: 50%;">
+        -<img class="app-iphone" src="assets/img/blue-cloud.svg" style="width: 40%;">
       </div>
-      <div class="col-sm-6 ">
-        <h3 class="m-t-0">Clouded Thinking</h3>
+      <div class="col-sm-6 col-sm-offset-1">
+        <h6 class="text-muted text-uppercase">Clouded Thinking</h6>
         <p class="lead m-b-md">Until now the travel industry has been known to be riddled with old processes. From time intensive wire transfers to fax documentation requirements - inefficiencies are abundant.</p>
         <div class="row hidden-sm">
         </div>
       </div>
     </div>
-
   </div>
 </div>
-<div class="block second-feature-block block-secondary app-iphone-block post-landing" style="background-color: #F7F7F7;">
+<!-- start of second featuree -->
+<div class="block block-secondary app-iphone-block second-feature" style="padding-top:100px;padding-bottom:100px;">
   <div class="container">
     <div class="row app-align-center">
-    <div class="col-sm-12">
-      <div class="col-sm-12 ">
-        <img class="app-iphone" src="assets/img/tc.svg" style="width: 20%;">
-        <h3 class="m-t-0" style="margin:0 auto;">Rerouting the Industry with Programmable Cash</h3>
-        <p class="lead m-b-md">We are implementing a blockchain solution using digital currency programmed to instantly execute and record transactions that meet predefined company expense policies and criteria. We are developing a tokenized corporate travel ecosystem to revolutionize the travel payment landscape by integrating the entire travel supply chain.</p>
+      <div class="col-sm-7 col-sm-offset-1">
+        <h6 class="text-uppercase">Rerouting the Industry to your desired destination</h6>
+        <p class="lead m-b-md lead m-b-md">We are implementing a blockchain solution using digital currency programmed to instantly execute and record transactions that meet predefined company expense policies and criteria. We are developing a tokenized corporate travel ecosystem to revolutionize the travel payment landscape by integrating the entire travel supply chain.</p>
+      </div>
+      <div class="col-sm-3 col-sm-offset-1">
+        <img class="app-iphone" src="assets/img/tc.svg" style="width: 80%;">
+    </div> 
+    </div>
+  </div>
+</div>
+<!-- third feature -->
+<div class="block block-secondary app-iphone-block first-feature" style="padding-top:100px;padding-bottom:100px;">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-5 hidden-xs">
+      <img class="app-iphone" src="assets/img/wing.svg" style="width: 50% !important;"> 
+      </div>
+      <div class="col-sm-6 col-sm-offset-1">
+        <h6 class="text-muted text-uppercase">Elevating the entire experience</h6>
+        <p class="lead m-b-md">ACND will enable settlement in minutes rather than days. ACND will Integrate Smart Contracts with every transaction which enable data confirmation and data delivery at the Point of Sale (POS) for everyone in the supply chain. While traditional payment methods require expensive reconciliations and manual processes, we are automating the process and generating substantial savings and efficiencies across the entire vertical supply chain.</p>
         <div class="row hidden-sm">
         </div>
       </div>
@@ -119,51 +179,218 @@
   </div>
 </div>
 
-<div class="block block-inverse block-secondary app-code-block">
-
-
-<!-- <div class="block block-inverse block-secondary app-code-block"> -->
-
+<!-- fourth feature -->
+<div class="block block-inverse block-secondary app-code-block" style="background-image: url(assets/img/background.png);">
   <div class="container">
     <div class="row app-align-center">
-      <div class="col-sm-5 col-sm-push-7 ">
-        <img style="width:60%;" class="col-xs-offset-3" src="assets/img/wing.svg">
+      <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://Acnd.us17.list-manage.com/subscribe/post?u=0e51d46eb5f760bd2cdda8516&amp;id=2cdabf36e1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  <h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk"></span> </div>
+<div class="mc-field-group">
+  <label for="mce-EMAIL"> <span class="asterisk"></span>
+</label>
+  <input  placeholder="Email Address" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="width:100%;color:#000000;">
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0e51d46eb5f760bd2cdda8516_2cdabf36e1" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary btn-lg" style="margin-top:40px;"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+    </div>
+  </div>
+</div>
+<!--
+<div class="block block-secondary app-high-praise p-b-0">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-12">
+        <h6 class="text-muted text-uppercase">High Praise</h6>
+        <h3 class="m-t-0 m-b-md">“Go Analytics is amazing. Decisions that used to take weeks, now only takes minutes and is available to everyone on my team.”</h3>
+        <p class="m-b-md text-muted">Cindy Smith, founder of Cool Startup</p>
       </div>
-      <div class="col-sm-6 col-sm-pull-5">
-        <h3 class="">Elevating the entire experience</h3>
-        <p class="lead m-b-md text-muted">ACND will enable settlement in minutes rather than days. ACND will Integrate Smart Contracts with every transaction which enable data confirmation and data delivery at the Point of Sale (POS) for everyone in the supply chain. While traditional payment methods require expensive reconciliations and manual processes, we are automating the process and generating substantial savings and efficiencies across the entire vertical supply chain.
-</p>
+
+    </div>
+  </div>
+</div>
+
+-->
+<div class="block block-secondary app-block-marketing-grid" style="background:#F5F5F5;">
+  <div class="container text-center">
+
+    <div class="row m-b-lg">
+      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <h6 class="text-muted text-uppercase">Team</h6>
+        <img style="border-radius:100%;" src="assets/img/gary.jpg"/><br><br>
+        <h6 class="text-muted">Gary Teplis, Chief Executive Officer,</h6>
+        <p>Garyhas been in the travel industry most of his life. As CEO of Teplis Travel, Gary worked to build Teplis Travel into a leading Travel Management Company (TMC). A graduate of Rollins College and London University, Gary regularly interacts with companies that have a global footprint, fine-tuning service delivery in an ever changing marketplace. Staying on top of the latest developments in travel technology is a passion for Gary and he helps his firm keep pace with innovation. In addition to leading Teplis Travel, Gary has often been an angel investor and venture capitalist in various industries. For example, Gary was a founding investor in travelscape.com, which was eventually sold to Expedia. Gary developed the corporate HQ location for Under Armour in Baltimore, which was eventually sold to Under Armour. Gary has invested in many other Industries such as telecom, finance, medical, real estate, technology and many more.</p>
+      </div>
+    </div>
+    <div class="row m-b-lg">
+      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <img style="border-radius:100%;" src="assets/img/chase.png" width="40%;"/><br><br>
+        <h6 class="text-muted">Chase DuBois, Chief Opperations Officer</h6>
+        <p>A graduate of University of Florida (BS &amp; MS), Chase DuBois began his career with Ernst &amp; Young as a CPA. He has experience in
+          management consulting and technology with McGladrey. Chase has worked with Fortune 500 companies such as SunTrust, ING
+          (Voya), and others. He also managed a decision support team at Travelport in their technology division. Chase’s work in strategic
+          finance during his tenure at Travelport drove significant improvements in the organization’s processes while enabling the business to
+          make informed technology investment decisions. Chase is a proponent of blockchain technology and an investor in
+          cryptocurrencies.</p>
+      </div>
+    </div><div class="row m-b-lg">
+      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <img style="border-radius:100%; width:40%;" src="assets/img/blake.jpg"/><br><br>
+        <h6 class="text-muted">Blake Jackovitch, Chief Innovation Officer</h6>
+        <p>Blake Jackovitch has extensive experience creating, producing and executing projects. An experienced designer he honed his creative skills during a successful career with Look-Listen where he performed numerous roles leading to successful projects with people like NCR, City of Atlanta and Clemson University. His ability to originate and implement new ideas led him to a co-founder role at Mobile Monday Atlanta and partner at Raider Films. Leading vision and strategy, external communications, marketing and social media for both organizations. An early adopter of cryptocurrencies and blockchain since 2009, he remains well-versed and proficient in the technologies</p>
+      </div>
+    </div><div class="row m-b-lg">
+      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+        <img style="border-radius:100%; width:40%;" src="assets/img/tharwat.png"/><br><br>
+        <h6 class="text-muted">Tharwat Abdul-Malik Blockchain Architect</h6>
+        <p> Tharwat has over 20 years of technology and business experience. He is skilled in software development, agile project management, enterprise architecture, systems integration, APIs, and blockchain technologies. He has been an independent consultant and entrepreneur for most of his career, working for such clients as Travelport, Delta Airlines, McKesson, Sharecare, Vodafone, Racetrac, Raytheon, and a host of startups in advisory, development and leadership roles</p>
       </div>
     </div>
   </div>
 </div>
+   <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1 class="block-title m-b-sm" style="margin:0 auto;text-align:center; color:#000000;padding-top:50px;">Recent</h1>
+          <img src="assets/img/teplis.jpg"style="padding: 70px 0px 70px 0px; margin:0 auto; text-align:center !important;">
+          <p class="lead m-b-md "style="float:left;">We are very excited to announce our partnership with Teplis Travel. An industry leader in the corporate travel Industry for over 45 years. Our partnership with Teplis gives ACND detailed intelligence into all of the real-time use case scenarios within the corporate travel payments industry. Our partnership also provides us with a direct channel to $2B of clients, in a $7 Trillion Industry. And ongoing preferred relationships with almost every supplier in the travel industry.</p>
+        </div>
+      </div>
+    </div>
+<div class="container">
+  <p></p>
+</div>
+<h6 class="text-muted text-uppercase centered" style="padding:50px 0px 50px 0px;">Runway</h6>
+<!-- start up slider carosel-feature -->
+<div class="block block-bordered-lg p-l-0 p-t-0 p-r-0 ">
+  <div id="carousel-example-generic-2" class="carousel carousel-light slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carousel-example-generic-2" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel-example-generic-2" data-slide-to="1"></li>
+      <li data-target="#carousel-example-generic-2" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <div class="block">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="text-muted">Q2 2018</h2>
+                <p class="lead m-x-auto text-center">
+                  Alpha Prototype
+                  B2B Payment Solution Beta
+                  Develop Strategic Partnerships 
+                </p>
+              </div>
+            </div>
+   
+          </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="block">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="text-muted">Q3 2018</h2>
+                <p class="lead m-x-auto text-center">
+                  Develop Smart Contracts
+                  Token Generation Event / ICO 
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="block">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="text-muted">Q4 2018</h2>
+                <p class="lead m-x-auto text-center"> 
+                  Mobile Wallet App 
+                  Expense Management Application 
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="left carousel-control" href="#carousel-example-generic-2" role="button" data-slide="prev">
+      <span class="icon icon-chevron-thin-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic-2" role="button" data-slide="next">
+      <span class="icon icon-chevron-thin-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<!-- -->
+<!--
+<div class="block app-ribbon p-y-lg">
+  <div class="container text-center">
+    <img src="assets/img/startup-4.svg">
+    <img src="assets/img/startup-5.svg">
+    <img src="assets/img/startup-6.svg">
+    <img src="assets/img/startup-7.svg">
+    <img src="assets/img/startup-8.svg">
+  </div>
+</div> -->
 <div class="block app-price-plans">
   <div class="container text-center">
     <div class="row">
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
-          <h6 class="text-muted text-uppercase m-b">Corporate Travel</h6>
+          <h6 class="text-muted text-uppercase m-b">Corprate Travel</h6>
+          <img class="m-b" style="width:20%;" src="assets/img/plane.svg">
         </div>
+
         <ul class="list-unstyled list-bordered text-left m-y-md">
           <li class="p-y">Automated reconciliations</li>
           <li class="p-y">Integrated travel policies</li>
           <li class="p-y">Savings on transactions and loyalty benefits</li>
         </ul>
       </div>
+
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
-          <h6 class="text-muted text-uppercase m-b">Agencies</h6>
+          <h6 class="text-muted text-uppercase m-b">AGENCIES</h6>
+          <img class="m-b" src="assets/img/agency.svg" style="width:20%;s">
         </div>
         <ul class="list-unstyled list-bordered text-left m-y-md">
-          <li class="p-y">Automated commission payments via smart contracts</li>
+          <li class="p-y"> Automated commission payments via smart contracts</li>
           <li class="p-y">Reduced data maintenance overhead</li>
-          <li class="p-y"> Cost efficient, fast cross-border payments</li>
+          <li class="p-y">Cost efficient, fast cross-border payments</li>
         </ul>
       </div>
+
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
-          <h6 class="text-muted text-uppercase m-b">Suppliers</h6>
-        </div>
+          <h6 class="text-muted text-uppercase m-b">Corporate</h6>
+          <img class="m-b" src="assets/img/corporation.svg" width="20%;">
+
         <ul class="list-unstyled list-bordered text-left m-y-md">
           <li class="p-y">Automate manual processes (i.e. eliminate fax verification for hotels)</li>
           <li class="p-y">Faster payment processing which reduces cash cycle</li>
@@ -173,107 +400,33 @@
     </div>
   </div>
 </div>
-<!--recently -->
-<div class="block app-price-plans">
-  <div class="container text-center">
-    <div class="row m-b-lg">
-      <div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
-        <h6 class="text-muted text-uppercase">Recent</h6>
-        <h3  class="m-t-0"> Oh the places we will go.</h3>
-        <img src="assets/img/teplis.jpg"/>
-        <p class="teplis-partnership" style="padding-top:30px;">We are very excited to announce our partnership with Teplis Travel. An industry leader in the corporate travel Industry for over 45 years. Our partnership with Teplis gives ACND detailed intelligence into all of the real-time use case scenarios within the corporate travel payments industry. Our partnership also provides us with a direct channel to $2B of clients, in a $7 Trillion Industry. And ongoing preferred relationships with almost every supplier in the travel industry.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 p-x m-b-lg">
-        <div class="p-x">
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!--
-<div class="block block-secondary app-high-praise p-b-0">
-  <div class="container">
-    <div class="row app-align-center">
-      <div class="col-sm-5 col-sm-push-7">
-        <h6 class="text-muted text-uppercase">High Praise</h6>
-        <h3 class="m-t-0 m-b-md">“Go Analytics is amazing. Decisions that used to take weeks, now only takes minutes and is available to everyone on my team.”</h3>
-        <p class="m-b-md text-muted">Cindy Smith, founder of Cool Startup</p>
-      </div>
 
-    </div>
-  </div>
-</div>
--->
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;text-align:center;margin:0 auto;padding-top:30px;}
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup" style="padding-top:30px;">
-<form action="https://Acnd.us17.list-manage.com/subscribe/post?u=0e51d46eb5f760bd2cdda8516&amp;id=b03366d368" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to our mailing list</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0e51d46eb5f760bd2cdda8516_b03366d368" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-<div class="block block-secondary app-block-marketing-grid">
-  <div class="container text-center">
-
-    <div class="row m-b-lg">
-      <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
-        <h6 class="text-muted text-uppercase">Team</h6>
-      </div>
-    </div>
-    <div class="row app-marketing-grid">
-      <div class="col-sm-3 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-9.svg">
-        <p><strong>Gary Teplis</strong></p>
-      </div>
-      <div class="col-sm-3 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-10.svg">
-        <p><strong>Chase DuBois</strong> </p>
-      </div>
-      <div class="col-sm-3 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-11.svg">
-        <p><strong>Blake Jackovitch</strong></p>
-      </div>
-      <div class="col-sm-3 p-x-md m-b-lg">
-        <img class="m-b" src="assets/img/startup-11.svg">
-        <p><strong>Tharwart malik</strong> </p>
-      </div>
-    </div>
-
-    <div class="row app-marketing-grid">
-    </div>
-  </div>
-</div>
 <div class="block block-inverse app-footer">
  <div class="container">
     <div class="row">
       <div class="col-sm-5 m-b-md">
         <ul class="list-unstyled list-spaced">
-          <li class="m-b"><h6 class="text-uppercase" style="color:#13103A;">About</h6></li>
+          <li class="m-b"><h6 class="text-uppercase">About</h6></li>
           <li class="text-muted">
-           Looking to acnd ? We'd love to here from you! <a style="color:#000000;" href="mailto:team@acnd.io">write us</a> here and we'll be sure to get back to you as soon as posisble.
+           We appreciate your shown intrest in ACND. If you’d like to learn more, or are interested in the project, contact us anytime at <a href="mailto: Blake@acnd.io">team@acnd.io</a>.
           </li>
         </ul>
       </div>
+    <!-- <div class="col-sm-2 col-sm-offset-1 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">Product</h6></li>
+          <li class="text-muted">Features</li>
+          <li class="text-muted">Examples</li>
+        </ul>
+      </div>-->
     </div>
   </div>
 </div>
-<!-- </div> -->
+
+</div>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/toolkit.js"></script>
     <script src="assets/js/application.js"></script>
   </body>
 </html>
+
