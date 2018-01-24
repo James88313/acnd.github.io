@@ -12,18 +12,18 @@
     <meta name="author" content="">
 
     <title>
-      
-        ACND &middot; 
-      
+
+        ACND &middot;
+
     </title>
 
-    
+
       <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
       <link href="assets/css/toolkit-startup.css" rel="stylesheet">
       <link href="assets/css/application-startup.css" rel="stylesheet">
-    
 
-    
+
+
 
     <style>
       /* note: this is a hack for ios iframe for bootstrap themes shopify page */
@@ -62,7 +62,7 @@
 
 
 <body>
-  
+
 
 
 
@@ -125,7 +125,7 @@
         <div class="col-sm-10 col-md-6">
           <h1 class="block-title m-b-sm" style="float:left;">Eliminating Turbulance in corporate Travel Payment experience.</h1>
           <p class="lead m-b-md text-muted" style="float:left;">The corprate travel payment solution powered by cryptocurrency.</p>
-             <small>ICO Coming Soon</small> 
+             <small>ICO Coming Soon</small>
 
         </div>
       </div>
@@ -158,7 +158,7 @@
       </div>
       <div class="col-sm-3 col-sm-offset-1">
         <img class="app-iphone" src="assets/img/tc.svg" style="width: 80%;">
-    </div> 
+    </div>
     </div>
   </div>
 </div>
@@ -167,7 +167,7 @@
   <div class="container">
     <div class="row app-align-center">
       <div class="col-sm-5 hidden-xs">
-      <img class="app-iphone" src="assets/img/wing.svg" style="width: 50% !important;"> 
+      <img class="app-iphone" src="assets/img/wing.svg" style="width: 50% !important;">
       </div>
       <div class="col-sm-6 col-sm-offset-1">
         <h6 class="text-muted text-uppercase">Elevating the entire experience</h6>
@@ -297,11 +297,11 @@
                 <p class="lead m-x-auto text-center">
                   Alpha Prototype
                   B2B Payment Solution Beta
-                  Develop Strategic Partnerships 
+                  Develop Strategic Partnerships
                 </p>
               </div>
             </div>
-   
+
           </div>
         </div>
       </div>
@@ -313,7 +313,7 @@
                 <h2 class="text-muted">Q3 2018</h2>
                 <p class="lead m-x-auto text-center">
                   Develop Smart Contracts
-                  Token Generation Event / ICO 
+                  Token Generation Event / ICO
                 </p>
               </div>
             </div>
@@ -327,9 +327,9 @@
             <div class="row">
               <div class="col-sm-8 col-sm-offset-2">
                 <h2 class="text-muted">Q4 2018</h2>
-                <p class="lead m-x-auto text-center"> 
-                  Mobile Wallet App 
-                  Expense Management Application 
+                <p class="lead m-x-auto text-center">
+                  Mobile Wallet App
+                  Expense Management Application
                 </p>
               </div>
             </div>
@@ -408,7 +408,7 @@
         <ul class="list-unstyled list-spaced">
           <li class="m-b"><h6 class="text-uppercase">About</h6></li>
           <li class="text-muted">
-           We appreciate your shown intrest in ACND. If you’d like to learn more, or are interested in the project, contact us anytime at <a href="mailto: Blake@acnd.io">team@acnd.io</a>.
+           We appreciate your shown interest in ACND. If you’d like to learn more, or are interested in the project, contact us anytime at <a href="mailto: Blake@acnd.io">team@acnd.io</a>.
           </li>
         </ul>
       </div>
@@ -429,4 +429,3 @@
     <script src="assets/js/application.js"></script>
   </body>
 </html>
-
