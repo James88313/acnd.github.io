@@ -233,7 +233,7 @@
   <div class="container text-center">
 
     <div class="row m-b-lg">
-      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+      <div class="col-xs-12 ">
         <h6 class="text-muted text-uppercase">Team</h6>
         <img style="border-radius:100%;" src="assets/img/gary.jpg"/><br><br>
         <h6 class="text-muted">Gary Teplis, Chief Executive Officer,</h6>
@@ -241,7 +241,7 @@
       </div>
     </div>
     <div class="row m-b-lg">
-      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+      <div class="col-xs-12 ">
         <img style="border-radius:100%;" src="assets/img/chase.png" width="40%;"/><br><br>
         <h6 class="text-muted">Chase DuBois, Chief Opperations Officer</h6>
         <p>A graduate of University of Florida (BS &amp; MS), Chase DuBois began his career with Ernst &amp; Young as a CPA. He has experience in
@@ -252,13 +252,13 @@
           cryptocurrencies.</p>
       </div>
     </div><div class="row m-b-lg">
-      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+      <div class="col-xs-12 ">
         <img style="border-radius:100%; width:40%;" src="assets/img/blake.jpg"/><br><br>
         <h6 class="text-muted">Blake Jackovitch, Chief Innovation Officer</h6>
         <p>Blake Jackovitch has extensive experience creating, producing and executing projects. An experienced designer he honed his creative skills during a successful career with Look-Listen where he performed numerous roles leading to successful projects with people like NCR, City of Atlanta and Clemson University. His ability to originate and implement new ideas led him to a co-founder role at Mobile Monday Atlanta and partner at Raider Films. Leading vision and strategy, external communications, marketing and social media for both organizations. An early adopter of cryptocurrencies and blockchain since 2009, he remains well-versed and proficient in the technologies</p>
       </div>
     </div><div class="row m-b-lg">
-      <div class="col-xs-12 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+      <div class="col-xs-12 ">
         <img style="border-radius:100%; width:40%;" src="assets/img/tharwat.png"/><br><br>
         <h6 class="text-muted">Tharwat Abdul-Malik Blockchain Architect</h6>
         <p> Tharwat has over 20 years of technology and business experience. He is skilled in software development, agile project management, enterprise architecture, systems integration, APIs, and blockchain technologies. He has been an independent consultant and entrepreneur for most of his career, working for such clients as Travelport, Delta Airlines, McKesson, Sharecare, Vodafone, Racetrac, Raytheon, and a host of startups in advisory, development and leadership roles</p>
