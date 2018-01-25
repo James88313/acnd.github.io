@@ -106,8 +106,8 @@
         </a>
         </li>
         <li >
-          <a download="ACND.pdf" href="acnd.pdf" title="acnd-whitepaper">
-          onepager
+          <a download="acnd-twopager.pdf" href="acnd.pdf" title="acnd-twopaper">
+          twopager
         </a>
         </li>
       </ul>
@@ -126,7 +126,6 @@
           <h1 class="block-title m-b-sm" style="float:left;">Eliminating Turbulance in corporate Travel Payment experience.</h1>
           <p class="lead m-b-md text-muted" style="float:left;">The corprate travel payment solution powered by cryptocurrency.</p>
              <small>ICO Coming Soon</small>
-
         </div>
       </div>
     </div>
@@ -229,55 +228,7 @@
 </div>
 
 -->
-<div class="block block-secondary app-block-marketing-grid" style="background:#F5F5F5;">
-  <div class="container text-center">
 
-    <div class="row m-b-lg">
-      <div class="col-xs-12 ">
-        <h6 class="text-muted text-uppercase">Team</h6>
-        <img style="border-radius:100%;" src="assets/img/gary.jpg"/><br><br>
-        <h6 class="text-muted">Gary Teplis, Chief Executive Officer,</h6>
-        <p>Garyhas been in the travel industry most of his life. As CEO of Teplis Travel, Gary worked to build Teplis Travel into a leading Travel Management Company (TMC). A graduate of Rollins College and London University, Gary regularly interacts with companies that have a global footprint, fine-tuning service delivery in an ever changing marketplace. Staying on top of the latest developments in travel technology is a passion for Gary and he helps his firm keep pace with innovation. In addition to leading Teplis Travel, Gary has often been an angel investor and venture capitalist in various industries. For example, Gary was a founding investor in travelscape.com, which was eventually sold to Expedia. Gary developed the corporate HQ location for Under Armour in Baltimore, which was eventually sold to Under Armour. Gary has invested in many other Industries such as telecom, finance, medical, real estate, technology and many more.</p>
-      </div>
-    </div>
-    <div class="row m-b-lg">
-      <div class="col-xs-12 ">
-        <img style="border-radius:100%;" src="assets/img/chase.png" width="40%;"/><br><br>
-        <h6 class="text-muted">Chase DuBois, Chief Opperations Officer</h6>
-        <p>A graduate of University of Florida (BS &amp; MS), Chase DuBois began his career with Ernst &amp; Young as a CPA. He has experience in
-          management consulting and technology with McGladrey. Chase has worked with Fortune 500 companies such as SunTrust, ING
-          (Voya), and others. He also managed a decision support team at Travelport in their technology division. Chase’s work in strategic
-          finance during his tenure at Travelport drove significant improvements in the organization’s processes while enabling the business to
-          make informed technology investment decisions. Chase is a proponent of blockchain technology and an investor in
-          cryptocurrencies.</p>
-      </div>
-    </div><div class="row m-b-lg">
-      <div class="col-xs-12 ">
-        <img style="border-radius:100%; width:40%;" src="assets/img/blake.jpg"/><br><br>
-        <h6 class="text-muted">Blake Jackovitch, Chief Innovation Officer</h6>
-        <p>Blake Jackovitch has extensive experience creating, producing and executing projects. An experienced designer he honed his creative skills during a successful career with Look-Listen where he performed numerous roles leading to successful projects with people like NCR, City of Atlanta and Clemson University. His ability to originate and implement new ideas led him to a co-founder role at Mobile Monday Atlanta and partner at Raider Films. Leading vision and strategy, external communications, marketing and social media for both organizations. An early adopter of cryptocurrencies and blockchain since 2009, he remains well-versed and proficient in the technologies</p>
-      </div>
-    </div><div class="row m-b-lg">
-      <div class="col-xs-12 ">
-        <img style="border-radius:100%; width:40%;" src="assets/img/tharwat.png"/><br><br>
-        <h6 class="text-muted">Tharwat Abdul-Malik Blockchain Architect</h6>
-        <p> Tharwat has over 20 years of technology and business experience. He is skilled in software development, agile project management, enterprise architecture, systems integration, APIs, and blockchain technologies. He has been an independent consultant and entrepreneur for most of his career, working for such clients as Travelport, Delta Airlines, McKesson, Sharecare, Vodafone, Racetrac, Raytheon, and a host of startups in advisory, development and leadership roles</p>
-      </div>
-    </div>
-  </div>
-</div>
-   <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <h1 class="block-title m-b-sm" style="margin:0 auto;text-align:center; color:#000000;padding-top:50px;">Recent</h1>
-          <img src="assets/img/teplis.jpg"style="padding: 70px 0px 70px 0px; margin:0 auto; text-align:center !important;">
-          <p class="lead m-b-md "style="float:left;">We are very excited to announce our partnership with Teplis Travel. An industry leader in the corporate travel Industry for over 45 years. Our partnership with Teplis gives ACND detailed intelligence into all of the real-time use case scenarios within the corporate travel payments industry. Our partnership also provides us with a direct channel to $2B of clients, in a $7 Trillion Industry. And ongoing preferred relationships with almost every supplier in the travel industry.</p>
-        </div>
-      </div>
-    </div>
-<div class="container">
-  <p></p>
-</div>
 <h6 class="text-muted text-uppercase centered" style="padding:50px 0px 50px 0px;">Runway</h6>
 <!-- start up slider carosel-feature -->
 <div class="block block-bordered-lg p-l-0 p-t-0 p-r-0 ">
@@ -377,7 +328,7 @@
       <div class="col-sm-4 p-x m-b-lg">
         <div class="p-x">
           <h6 class="text-muted text-uppercase m-b">AGENCIES</h6>
-          <img class="m-b" src="assets/img/agency.svg" style="width:20%;s">
+          <img class="m-b" src="assets/img/agency.svg" style="width:20%;">
         </div>
         <ul class="list-unstyled list-bordered text-left m-y-md">
           <li class="p-y"> Automated commission payments via smart contracts</li>
